@@ -1,0 +1,44 @@
+body
+{
+    background-color: gray;
+    color: white;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: white;
+}
+
+button
+{
+    background-color: blue;
+}
+
+footer
+{
+    display: flex;   
+}
+
+h4
+{
+    color: red;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+}
+
+#img
+{
+    width: 500px;
+    height: 400px;
+    border-radius: 15px;
+    border: 20px solid;
+    border-color: white;
+    box-shadow: 10px;
+}
